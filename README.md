@@ -2,7 +2,7 @@
 
 # Ruby Language Research
 
-Research on Ruby languages, frameworks & libraries
+Research on Ruby language, frameworks & libraries
 
 ## Table of Contents
 * [Learnings](#learnings)
