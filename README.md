@@ -7,11 +7,11 @@ Research on Ruby language, frameworks & libraries
 ## Table of Contents
 * [Learnings](#learnings)
 * [Ruby Language](#ruby-language)
-* [Frameworks](#frameworks)
-    * [Ruby on Rails](#ruby-on-rails)
+* [Frameworks & Libraries](#frameworks--libraries)
+  * [Ruby on Rails](#ruby-on-rails)
 
 ## Learnings
-* [Ruby](./languages/ruby)
+* [Ruby](./ruby)
 
 ## Ruby Language
 * [🎥 Ruby in 100 Seconds](https://www.youtube.com/watch?v=UYm0kfnRTJk&ab_channel=Fireship)
