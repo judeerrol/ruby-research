@@ -9,9 +9,14 @@ Research on Ruby language, frameworks & libraries
 * [Ruby Language](#ruby-language)
 * [Frameworks & Libraries](#frameworks--libraries)
   * [Ruby on Rails](#ruby-on-rails)
+  * [Sidekiq](#sidekiq)
+  * [RSpec](#rspec)
+  * [Multitenancy](#multitenancy)
 
 ## Learnings
 * [Ruby](./ruby)
+* [rails-auth-from-scratch](https://github.com/judeerrol/rails-auth-from-scratch)
+* [rails-hotwire-quote-editor](https://github.com/judeerrol/rails-hotwire-quote-editor)
 
 ## Ruby Language
 * [🎥 Ruby in 100 Seconds](https://www.youtube.com/watch?v=UYm0kfnRTJk&ab_channel=Fireship)
@@ -34,11 +39,39 @@ Research on Ruby language, frameworks & libraries
 * [📝 Design Patterns in Ruby](https://refactoring.guru/design-patterns/ruby)
 * [📝 The 6 Most Popular Ruby Frameworks To Use in 2025](https://www.monocubed.com/blog/best-ruby-frameworks/)
 * [📝 A collection of awesome Ruby libraries, tools, frameworks and software](https://github.com/markets/awesome-ruby)
+* [📝 Trending Projects for January 01, 2023](https://www.ruby-toolbox.com/trends/2023-01-01)
+* [📝 Writing Fast Ruby 😍 -- Collect Common Ruby idioms.](https://github.com/fastruby/fast-ruby)
+* [📝 Airbnb's Ruby Style Guide](https://github.com/airbnb/ruby)
+* [📝 Ruby Style Guide](https://rubystyle.guide/)
+* [⚙️ Dependency check for Ruby](https://securityguide.github.io/webapps/tools/ruby-tools/ruby-dependency-checker.html)
+* [📝 Secure gems with bundle audit](https://courses.bigbinaryacademy.com/learn-rubyonrails/secure-gems-with-bundle-audit/)
 
 ## Frameworks & Libraries
 ### Ruby on Rails
+* [📝 Getting Started with Rails](https://guides.rubyonrails.org/getting_started.html)
+* [📝 Ruby on Rails Course](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-on-rails)
+* [📝 Rails Style Guide](https://rails.rubystyle.guide/)
+* [📝 Minitest Style Guide](https://minitest.rubystyle.guide/)
+* [📝 Turbo Rails Tutorial](https://www.hotrails.dev/turbo-rails)
+* [📝 Ruby on Rails: 10 Trending Design Patterns](https://www.atatus.com/blog/ruby-on-rails-trending-design-patterns/)
+* [📝 Upgrading Ruby on Rails](https://guides.rubyonrails.org/upgrading_ruby_on_rails.html)
+* [📝 The Rails Upgrade Series](https://www.fastruby.io/blog/rails/upgrade/rails-upgrade-series.html)
 
-***
-WIP...
+### Sidekiq
+* [📝 Sidekiq Getting Started](https://github.com/sidekiq/sidekiq/wiki/Getting-Started)
+* [🎥 Sidekiq by SmoothTerminal](https://www.youtube.com/playlist?list=PLjeHh2LSCFrWGT5uVjUuFKAcrcj5kSai1)
+* [📝 Tracking down performance bugs in Sidekiq jobs](https://www.mikeperham.com/2017/06/05/tracking-down-performance-bugs-in-sidekiq-jobs/)
+* [📝 Coding Sidekiq Workers the Right Way](https://dev.to/raphael_jambalos/coding-sidekiq-workers-the-right-way-4jij)
+* [📝 Sidekiq Batches: Tips & Tricks](https://blog.magrathealabs.com/sidekiq-batches-tips-tricks-56bae4f8a5dd)
+
+### RSpec
+* [📝 The Definitive RSpec Tutorial With Examples](https://www.rubyguides.com/2018/07/rspec-tutorial/)
+* [📝 RSpec Style Guide](https://rspec.rubystyle.guide/)
+* [📝 Better Specs](https://www.betterspecs.org/)
+* [📝 Publisher: RSpec - Relish](https://relishapp.com/rspec/)
+
+### Multitenancy
+* [Database multi-tenancy for Rack (and Rails) applications](https://github.com/influitive/apartment)
+* [Multitenancy in Rails](https://gorails.com/series/multitenancy-in-rails)
 
 </samp>
