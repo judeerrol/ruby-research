@@ -12,6 +12,7 @@ Research on Ruby language, frameworks & libraries
   * [Sidekiq](#sidekiq)
   * [RSpec](#rspec)
   * [Multitenancy](#multitenancy)
+  * [Doorkeeper](#doorkeeper)
 
 ## Learnings
 * [Ruby](./ruby)
