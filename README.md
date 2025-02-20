@@ -56,6 +56,7 @@ Research on Ruby language, frameworks & libraries
 * [📝 Ruby on Rails: 10 Trending Design Patterns](https://www.atatus.com/blog/ruby-on-rails-trending-design-patterns/)
 * [📝 Upgrading Ruby on Rails](https://guides.rubyonrails.org/upgrading_ruby_on_rails.html)
 * [📝 The Rails Upgrade Series](https://www.fastruby.io/blog/rails/upgrade/rails-upgrade-series.html)
+* [📝 Rails Authentication From Scratch](https://stevepolito.design/blog/rails-authentication-from-scratch)
 
 ### Sidekiq
 * [📝 Sidekiq Getting Started](https://github.com/sidekiq/sidekiq/wiki/Getting-Started)
@@ -73,6 +74,10 @@ Research on Ruby language, frameworks & libraries
 ### Multitenancy
 * [📝 Database multi-tenancy for Rack (and Rails) applications](https://github.com/influitive/apartment)
 * [📝 Multitenancy in Rails](https://gorails.com/series/multitenancy-in-rails)
+
+## Doorkeeper
+* [📝 Doorkeeper — awesome OAuth 2 provider for your Rails / Grape app](https://github.com/doorkeeper-gem/doorkeeper)
+* [📝 Doorkeeper Guides](https://doorkeeper.gitbook.io/guides)
 
 ***
 WIP...
