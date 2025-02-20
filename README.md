@@ -76,7 +76,7 @@ Research on Ruby language, frameworks & libraries
 * [📝 Database multi-tenancy for Rack (and Rails) applications](https://github.com/influitive/apartment)
 * [📝 Multitenancy in Rails](https://gorails.com/series/multitenancy-in-rails)
 
-## Doorkeeper
+### Doorkeeper
 * [📝 Doorkeeper — awesome OAuth 2 provider for your Rails / Grape app](https://github.com/doorkeeper-gem/doorkeeper)
 * [📝 Doorkeeper Guides](https://doorkeeper.gitbook.io/guides)
 
