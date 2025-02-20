@@ -71,8 +71,8 @@ Research on Ruby language, frameworks & libraries
 * [📝 Publisher: RSpec - Relish](https://relishapp.com/rspec/)
 
 ### Multitenancy
-* [Database multi-tenancy for Rack (and Rails) applications](https://github.com/influitive/apartment)
-* [Multitenancy in Rails](https://gorails.com/series/multitenancy-in-rails)
+* [📝 Database multi-tenancy for Rack (and Rails) applications](https://github.com/influitive/apartment)
+* [📝 Multitenancy in Rails](https://gorails.com/series/multitenancy-in-rails)
 
 ***
 WIP...
